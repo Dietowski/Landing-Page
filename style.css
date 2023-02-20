@@ -203,6 +203,7 @@ body {
     padding-bottom: 48px;
     gap: 72px;
     padding: 72px;
+    align-items: center;
 }
 
 .butao-conteudo {
