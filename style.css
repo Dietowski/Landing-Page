@@ -191,6 +191,16 @@ body {
     font-size: 18px;
     color: #ECD6C4;
     padding-bottom: 48px;
+    display: block;
+    margin: 0 auto;
+}
+
+.conteudo-h3 {
+    font-family: 'Sarala', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ECD6C4;
+    padding-bottom: 48px;
 }
 
 .butao-conteudo {
