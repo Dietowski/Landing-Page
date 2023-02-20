@@ -75,7 +75,7 @@ body {
 
 .conteudo-principal-butao {
     background-color: #ECD6C4;
-    width: 67px;
+    width: 185px;
     height: 67px;
     border: none; /*isso é pq no próprio botão do HTML vem uma borda horrorosa, ai usa isso pra tirar*/
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25); /*cria uma sombra atrás do botão, fica bunitin viu*/
