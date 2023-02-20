@@ -202,6 +202,8 @@ body {
     color: #ECD6C4;
     padding-bottom: 48px;
     gap: 72px;
+    display: flex;
+    flex-direction: column;
 }
 
 .butao-conteudo {
